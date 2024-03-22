@@ -10,7 +10,7 @@ This project showcases my frontend skills through cool animations on a website. 
 - Showcase of frontend skills
 
 ## GitHub Pages Link
-You can view the project live on GitHub Pages: [Medico](https://gauravsharma-g-s.github.io/Medico/medico)
+You can view the project live on GitHub Pages: [Medico](https://medico-rose.vercel.app/)
 
 ## Usage
 Simply open the `index.html` file in your web browser to view the website.
